@@ -8,4 +8,4 @@
 - [ ] Function to generate a plot from some data
 - [ ] Test functions
 
-- Pull request to bring feature into the main branch
+- [ ] Pull request to bring feature into the main branch
