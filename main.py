@@ -5,6 +5,7 @@ DATA_FILEPATH = "./data/titanic.csv"
 def main():
     print("This is a demonstration of git")
     df = import_data(DATA_FILEPATH)
+    print("hello")
     
 
 if __name__ == "__main__":
